@@ -35,3 +35,11 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+--------------------------------
+
+*.com
+!a.com
+*.txt
+![Pp]ublic.txt
+assets/
